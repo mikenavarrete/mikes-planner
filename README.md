@@ -9,3 +9,4 @@ This is a planner that allows me to plan my day as necessary. It saves any info 
 ## Screenshot 
 ![Screenshot of Mike's Planner](./screenshot-of-planner.jpg)
 ## Link to deployed application 
+https://mikenavarrete.github.io/mikes-planner/
