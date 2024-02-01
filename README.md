@@ -7,6 +7,6 @@ This is a planner that allows me to plan my day as necessary. It saves any info 
 - Reopen the page throughout the day to access your schedule
 - Add new events as necessary
 ## Screenshot 
-![Screenshot of Mike's Planner](./screenshot-of-planner.jpg)
+![Screenshot of Mike's Planner](./screenshot%20of%20planner.jpg)
 ## Link to deployed application 
 https://mikenavarrete.github.io/mikes-planner/
