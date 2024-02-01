@@ -24,13 +24,14 @@ $(function () {
 timeBlock.each(function() {
   var timeBlockHour = $(this).attr('id')
   if (currentHour < parseInt($(this).attr('id'))) {
-    $(this).addClass('future')
+    console.log("comaparingTime")
+    $(this).children(".description").addClass('future')
   }
   if (currentHour > parseInt($(this).attr('id'))) {
-    $(this).addClass('past')
+    $(this).children(".description").addClass('past')
   }
   else {
-    $(this).addClass('present')
+    $(this).children(".description").addClass('present')
   }
 
 }) 
